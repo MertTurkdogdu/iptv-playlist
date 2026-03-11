@@ -15,12 +15,14 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turkey",A Haber
 https://ahaber-live.ercdn.net/ahaber/ahaber.m3u8
 
+#EXTINF:-1 group-title="Turkey",Kanal D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+
 #EXTINF:-1 group-title="Turkey",NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 
 #EXTINF:-1 group-title="Turkey",TV8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-
 
 #EXTINF:-1 group-title="Turkey",Mavi Karadeniz
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
@@ -43,5 +45,3 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1 group-title="Turkey",DMAX
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 
-#EXTINF:-1 group-title="Turkey",Kanal D
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
