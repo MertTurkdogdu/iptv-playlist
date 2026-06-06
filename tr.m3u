@@ -12,6 +12,12 @@ https://tv-trtspor.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turkey",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 group-title="Turkey",ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+
+#EXTINF:-1 group-title="Turkey",ATV 2
+https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Turkey",A Haber
 https://ahaber-live.ercdn.net/ahaber/ahaber.m3u8
 
@@ -45,10 +51,6 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1 group-title="Turkey",DMAX
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 
-#EXTINF:-1 group-title="Turkey",ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
 
-#EXTINF:-1 group-title="Turkey",ATV 2
-https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
 
 
